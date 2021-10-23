@@ -1,6 +1,8 @@
 # BikeShopDatabaseDesign
 Created an ER Diagram and converted it into a relationship schema for a Bike Shop
+
 Entites were as followed:
+
 ● Employees have a store-issued ID number, a name, an address, and one phone
 number.
 ● Customers have a store-issued ID number, a name, an address, and one or more
